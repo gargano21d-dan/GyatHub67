@@ -1,2 +1,0 @@
-# Package CONTROL: qui vanno le Servlet (la "C" di MVC = Controller).
-# Le Servlet ricevono le richieste, chiamano il Model e fanno forward alle JSP.

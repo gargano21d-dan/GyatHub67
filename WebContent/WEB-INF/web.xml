@@ -6,16 +6,8 @@
 
 	<display-name>BuiltToGrow</display-name>
 
-	<!-- Pagina mostrata quando si apre la radice del sito -->
 	<welcome-file-list>
-		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
-
-	<!--
-		Qui piu' avanti aggiungeremo:
-		- le pagine di errore personalizzate (404, 500, 403)
-		- la configurazione del DataSource / Connection Pool
-		I filtri e le Servlet useranno le annotazioni (@WebServlet, @WebFilter).
-	-->
 
 </web-app>

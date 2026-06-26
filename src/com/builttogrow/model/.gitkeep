@@ -1,2 +1,0 @@
-# Package MODEL: qui vanno i JavaBean (Prodotto, Utente, ...), i DAO (accesso al
-# database con JDBC), il Carrello e la classe di connessione al DB.

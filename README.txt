@@ -1,16 +1,6 @@
 BuiltToGrow
 ===========
 
-Progetto per il corso di Tecnologie Software per il Web
-Universita' degli Studi di Salerno - Corso di Laurea in Informatica
-Anno Accademico 2025/2026
-
-Docente:  Attilio Della Greca
-Gruppo:   Gyathub 67
-Studenti: Danilo Gargano (0512122237)
-          Mario Boccia   (0512121457)
-
-
 CHE COS'E'
 ----------
 BuiltToGrow e' un sito web e-commerce dedicato al mondo del fitness.

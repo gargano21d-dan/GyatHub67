@@ -1,0 +1,8 @@
+In questa cartella (WEB-INF/lib) va copiato il file .jar del driver MySQL:
+
+    mysql-connector-j-x.x.x.jar
+
+(e piu' avanti anche la libreria JSTL, se la useremo).
+
+Tomcat carica automaticamente tutti i .jar che trova qui dentro.
+Una volta copiato il connector, puoi cancellare questo file di promemoria.

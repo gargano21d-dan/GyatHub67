@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+	version="4.0">
+
+	<display-name>BuiltToGrow</display-name>
+
+	<!-- Pagina mostrata quando si apre la radice del sito -->
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+
+	<!--
+		Qui piu' avanti aggiungeremo:
+		- le pagine di errore personalizzate (404, 500, 403)
+		- la configurazione del DataSource / Connection Pool
+		I filtri e le Servlet useranno le annotazioni (@WebServlet, @WebFilter).
+	-->
+
+</web-app>
